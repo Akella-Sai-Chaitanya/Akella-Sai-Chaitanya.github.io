@@ -1,0 +1,13 @@
+h2 {
+    font-family: 'Lobster Two', cursive;
+    color: #E8E8E8;
+    text-shadow: 5px 3px 1px black;
+    padding: 0px 10px;
+}
+html {
+    background-color: #1E415E;
+}
+.smaller-image {
+    width: 50px;
+    padding: 0px 10px;
+}
